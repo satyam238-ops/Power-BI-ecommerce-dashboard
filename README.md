@@ -43,3 +43,11 @@ Operational Insights
 
 
 "Operational" (page4_operational.png)
+
+
+
+🔹 Note
+
+The ".pbix" file can be opened only in Power BI Desktop (not supported on mobile devices).
+Please download and open using Power BI Desktop to view the full interactive dashboard
+
